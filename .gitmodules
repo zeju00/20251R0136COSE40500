@@ -1,0 +1,3 @@
+[submodule "lib/Thermal-Management"]
+	path = lib/Thermal-Management
+	url = https://github.com/zeju00/Thermal-Management.git
