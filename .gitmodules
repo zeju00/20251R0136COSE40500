@@ -13,3 +13,6 @@
 [submodule "lib/cpu-scheduling-RR"]
 	path = lib/cpu-scheduling-RR
 	url = https://github.com/zeju00/cpu-scheduling-RR.git
+[submodule "lib/ptq-qat-comparison"]
+	path = lib/ptq-qat-comparison
+	url = https://github.com/zeju00/ptq-qat-comparison.git
