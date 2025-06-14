@@ -4,3 +4,6 @@
 [submodule "lib/liteflow_practice"]
 	path = lib/liteflow_practice
 	url = https://github.com/zeju00/liteflow_practice.git
+[submodule "lib/football-analysis"]
+	path = lib/football-analysis
+	url = https://github.com/zeju00/football-analysis.git
