@@ -1,3 +1,6 @@
 [submodule "lib/Thermal-Management"]
 	path = lib/Thermal-Management
 	url = https://github.com/zeju00/Thermal-Management.git
+[submodule "lib/liteflow_practice"]
+	path = lib/liteflow_practice
+	url = https://github.com/zeju00/liteflow_practice.git
