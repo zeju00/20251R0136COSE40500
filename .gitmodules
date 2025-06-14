@@ -16,3 +16,6 @@
 [submodule "lib/ptq-qat-comparison"]
 	path = lib/ptq-qat-comparison
 	url = https://github.com/zeju00/ptq-qat-comparison.git
+[submodule "lib/elixir-quantization"]
+	path = lib/elixir-quantization
+	url = https://github.com/zeju00/elixir-quantization.git
