@@ -10,3 +10,6 @@
 [submodule "lib/football-tactical-analysis-team-project"]
 	path = lib/football-tactical-analysis-team-project
 	url = https://github.com/zeju00/football-tactical-analysis-team-project.git
+[submodule "lib/cpu-scheduling-RR"]
+	path = lib/cpu-scheduling-RR
+	url = https://github.com/zeju00/cpu-scheduling-RR.git
