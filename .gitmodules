@@ -7,3 +7,6 @@
 [submodule "lib/football-analysis"]
 	path = lib/football-analysis
 	url = https://github.com/zeju00/football-analysis.git
+[submodule "lib/football-tactical-analysis-team-project"]
+	path = lib/football-tactical-analysis-team-project
+	url = https://github.com/zeju00/football-tactical-analysis-team-project.git
